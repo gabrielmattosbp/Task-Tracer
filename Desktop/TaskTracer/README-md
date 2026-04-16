@@ -13,7 +13,7 @@ A simple, efficient Command-Line Interface (CLI) tool to manage your daily tasks
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/gabrielmattosbp/Task-Tracer.git](https://github.com/gabrielmattosbp/Task-Tracer.git)
+   git clone [https://github.com/gabrielmattosbp/task-tracer.git](https://github.com/gabrielmattosbp/task-tracer.git)
    cd task-tracer
 
 2. Usage
