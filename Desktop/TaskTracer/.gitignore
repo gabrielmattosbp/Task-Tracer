@@ -1,0 +1,12 @@
+```text
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Local database (don't upload your personal tasks)
+list.json
+
+# Build files
+dist/
+build/
+*.egg-info/
